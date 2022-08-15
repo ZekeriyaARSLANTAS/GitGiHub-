@@ -19,6 +19,7 @@ kullanırız
 public static void main(String[] args) {
     System.out.println("Github ı ogrendik");
     System.out.println("Branch zekeriya ");
+    System.out.println("Branch main 1. deneme ye ek  ");
 
 }
 }
